@@ -16,13 +16,27 @@ Stručně se pokusím vysvětlit jak funguje script:
     - Program lze přerušit pomocí Ctrl + C.
 
 
-Pokud to nejde instalujte:
-    1. python.exe -m pip install --upgrade pip
-    2. pip install beautifulsoup4
-    3. pip install requests
-    4. pip install schedule
-    5. pip install time
-     
+## Pokud to nejde instalujte:
+### První krok
+```
+1. python.exe -m pip install --upgrade pip
+```
+### Druhý krok
+```
+2. pip install beautifulsoup4
+```
+### Třetí krok
+```
+3. pip install requests
+```
+### Čtvrtý krok
+```
+4. pip install schedule
+```
+### Pátý krok
+```
+5. pip install time
+```
 #Linux#
     $ sudo apt-get update & upgrade -y
     $ sudo apt-get install python3-pip
