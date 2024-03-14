@@ -7,10 +7,10 @@
     - The script's name is printed in ASCII.
     - Function _**"get_weather"**_: This function retrieves the current weather for the chosen location, České Budějovice.
         - _**Temperature**_: Retrieves temperature data.
-	- _**Wind Speed**_: Retrieves wind speed data.
-	- _**Precipitation**_: Retrieves precipitation data.
-	- _**Bio Load**_: Retrieves bio load data.
-	- _**Air Pressure**_: Retrieves air pressure data.
+        - _**Wind Speed**_: Retrieves wind speed data.
+        - _**Precipitation**_: Retrieves precipitation data.
+        - _**Bio Load**_: Retrieves bio load data.
+        - _**Air Pressure**_: Retrieves air pressure data.
     - Upon running the script, the user will see the current weather by executing _**"get_weather"**_.
     - Running every _**5 minutes**_ (modifiable): Follows the scheduling of regular weather updates every 5 minutes.
     - Finally, an infinite loop is initiated to execute the scheduled tasks.
