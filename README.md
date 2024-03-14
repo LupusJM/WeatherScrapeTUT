@@ -2,7 +2,7 @@
 
 Stručně se pokusím vysvětlit jak funguje script:
 
-    - Na začátku skriptu jsou importovány potřebné knihovny. BeautifulSoup se používá pro parsování HTML kódu webových stránek, "requests" pro získání obsahu stránky a "schedule" pro plánování pravidelných úkolů (opakování).
+ - Na začátku skriptu jsou importovány potřebné knihovny. BeautifulSoup se používá pro parsování HTML kódu webových stránek, "requests" pro získání obsahu stránky a "schedule" pro plánování pravidelných úkolů (opakování).
     - Vypíše se název Scriptu v podobě ASCII.
     - Funkce "get_weather": Tato funkce získává aktuální počasí pro zvolenou lokalitu České Budějovice. 
         - Teplota: Získá teplotu ze stránky.
