@@ -1,7 +1,7 @@
 # WeatherScrape
 > Tutorial project
 
-## Stručně se pokusím vysvětlit jak funguje script:
+## Jak funguje script:
 
  - Na začátku skriptu jsou importovány potřebné knihovny. _**"BeautifulSoup"**_ se používá pro parsování HTML kódu webových stránek, _**"requests"**_ pro získání obsahu stránky a _**"schedule"**_ pro plánování pravidelných úkolů (opakování) a _**"time"**_ funkce pro práci s časem.
     - Vypíše se název Scriptu v podobě ASCII.
